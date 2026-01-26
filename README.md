@@ -136,6 +136,6 @@ Este projeto está licenciado sob a licença **MIT**. Sinta-se livre para estuda
 
 
 
-Desenvolvido por [**Rafael**](https://github.com/daniellacamilo)
+Desenvolvido por [**Daniella**](https://github.com/daniellacamilo)
 Para dúvidas, sugestões ou colaborações, utilize as **issues do GitHub** ou entre em contato diretamente pelo perfil.
 
